@@ -227,7 +227,7 @@ def main():
 # Línea 128:
     st.set_page_config(layout="wide", page_title="Nmap Risk Dashboard - CVSS")
 # Línea 129:
-    st.title("EMPRESA SECURECORP")
+    st.title("-------------------EMPRESA SECURECORP-------------------")
     st.title("ANÁLISIS DE VULNERABILIDADES CON INTELIGENCIA ARTIFICIAL")
     st.markdown("NOMBRE COMPLETO:NATANIEL ENRRIQUE SAAVEDRA QUESPIA")
     st.markdown("CÓDIGO DE ESTUDIANTE: 99098")
@@ -310,3 +310,4 @@ def main():
 if __name__ == '__main__':
 
     main()
+
